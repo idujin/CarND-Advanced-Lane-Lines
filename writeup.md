@@ -1,6 +1,4 @@
-## Writeup Template
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
@@ -26,7 +24,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/warped_image.png "Warp Example"
 [image6]: ./output_images/histogram "Histogram Example"
 [image7]: ./output_images/color_fit_lines.png "Fit Visual"
-[image8]: ./examples/example_output.png "Output"
+[image8]: ./output_images/example_output.png "Output"
 [video1]: ./result_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
